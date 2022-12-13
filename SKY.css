@@ -1,0 +1,38 @@
+body{
+    background-image: url("GALAXY.jpg");
+    background-repeat: round;
+    }
+h {
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+    font-style: oblique;
+    }
+h1 {
+    font-size: larger;
+    font-style: oblique;
+    color: aqua;
+}
+h2 {
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(16, 145, 219);
+}
+h3 {
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(183, 199, 243);
+}
+h4 {
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(255, 255, 255);
+}
+#image1 {
+    height: 50ch;
+    width: 160ch;
+}
+#image2 {
+    height: 100ch;
+    width: 60ch;
+}
